@@ -14,5 +14,7 @@
 ### 📂 Projetos em destaque
 👉 Sistema para restaurante   
 👉 App Android de desafios diários  
+👉 Projeto de chatbot
+👉 CRUD básico
 
 📫 Contato: ya678945@gmail.com
